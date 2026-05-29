@@ -1,4 +1,3 @@
-import chunk
 import os  # 导入 os 模块，用于获取环境变量
 from dotenv import load_dotenv  # 导入 load_dotenv 函数，用于加载环境变量
 from openai import OpenAI  # 专门用来连接 LLM 的库
